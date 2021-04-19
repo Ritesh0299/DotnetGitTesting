@@ -11,6 +11,7 @@ namespace FirstAppDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mindtree");
+            Console.WriteLine("Hello Ritesh");
         }
     }
 }
